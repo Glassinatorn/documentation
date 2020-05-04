@@ -4,6 +4,7 @@ becomes big enough, I'll have to reorganize it into a proper wiki.
 
 ## Subjects
 - [Kvm]()
+- [VFIO]()
 - [Gpu passthrough]()
 - [LaTeX]()
 - [Nvim]()
