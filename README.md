@@ -1,10 +1,9 @@
-# documentation
-This is at the moment just a backlog for what I want to remember, when/if it
-becomes big enough, I'll have to reorganize it into a proper wiki.
+# Welcome
+This is the repository where I store examples of various things I document. To
+se the documentation, please refer to the [Wiki](https://github.com/Glassinatorn/documentation/wiki) for this repo.
 
-## Subjects
-- [Kvm]()
-- [VFIO]()
-- [Gpu passthrough]()
+# List of examples:
+- [KVM]()
+- [GPU Passthrough]()
 - [LaTeX]()
 - [Nvim]()
